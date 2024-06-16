@@ -1,19 +1,10 @@
 ## 🪄 The magic of coming up with a description 🪄
+**Info for now:** Middle Backend Developer 👀
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gt005&theme=solarized_dark)
-
-
-<!--
-**gt005/gt005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<br>
+While I'm up nights coming up with a description, catch the joke:
+<br>
+<br>
+![Jokes Card](https://readme-jokes.vercel.app/api)
