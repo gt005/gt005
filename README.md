@@ -1,2 +1,2 @@
 ## 🪄 The magic of coming up with a description 🪄
-**Info for now:** Lead Backend Developer in "Choys app". Ex-Kaspersky 👀
+**Info for now:** Senior Yandex Go/Python Developer, ex-Lead Backend Developer in "Choys app". Ex-Kaspersky 👀
